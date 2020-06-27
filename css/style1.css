@@ -1,0 +1,72 @@
+img{
+	width: 200px;
+	padding: 10px;
+}
+.profile{
+	border:2px solid #000;
+	width: 400px; 
+   margin: 10px;
+   text-align: left;
+}
+.tech{
+	border:2px solid #000;
+	width: 400px;
+   margin:10px;
+   text-align: left;
+}
+.hobbies{
+	border:2px solid #000;
+	width: 400px;
+   margin: 10px;
+   text-align: left;
+}
+.parent{
+	border:2px solid #000;
+	width: 420px;
+	height: 98%;
+   margin: 5px;
+   text-align: left;
+   position:absolute;left:10px;top:0;
+   background-color: white;
+}
+.carrer{
+	border:2px solid #000;
+	height: 25%;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 10px;
+	width: 94%;
+	text-align: left;
+}
+.Educational{
+	border: 2px solid #000;
+	margin: 10px;
+	width: 94%;
+	padding-left: 7px;
+	padding-bottom: 4px;  
+	text-align: left;
+}
+.project{
+	border: 2px solid #000;
+	margin: 10px;
+	width: 94%;
+	text-align: left;
+}
+.declare{
+	border: 2px solid #000;
+	margin: 10px;
+	width:94%;
+	text-align: left;
+}.child{
+	border:2px solid #000;
+	height: 87%;
+   margin-top: 10px;
+   text-align: right;
+   width:68%;
+   padding:10px; 
+   position:absolute;left:460px;top:0;
+   background-color: white;
+}
+body{
+	background-color: pink;
+}
